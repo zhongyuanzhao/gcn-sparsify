@@ -20,5 +20,17 @@ Z. Zhao, A. Swami and S. Segarra, "Distributed Link Sparsification for Scalable 
 }
 ```
 
-## Code
+## Code and synthetic data
+
+### Install packages
+
+
+### Install latex for IEEE journal acceptable fonts
+Also install poppler for inspecting fonts in PDF
+
+```bash
+apt-get update
+apt-get install -y texlive-latex-base texlive-fonts-recommended texlive-fonts-extra dvipng ghostscript cm-super
+sudo apt install -y poppler-utils
+```
 
