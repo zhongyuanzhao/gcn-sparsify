@@ -22,8 +22,11 @@ Z. Zhao, A. Swami and S. Segarra, "Distributed Link Sparsification for Scalable 
 
 ## Code and synthetic data
 
-### Install packages
+### Install Python packages
 
+Python3.10
+
+`pip3 install -r requirements.txt`
 
 ### Install latex for IEEE journal acceptable fonts
 Also install poppler for inspecting fonts in PDF
@@ -32,5 +35,16 @@ Also install poppler for inspecting fonts in PDF
 apt-get update
 apt-get install -y texlive-latex-base texlive-fonts-recommended texlive-fonts-extra dvipng ghostscript cm-super
 sudo apt install -y poppler-utils
+```
+
+### Datasets
+
+The training and test data sets as listed in Table I of the journal paper are
+
+```bash 
+data/BA_Graph_Uniform_mixN_mixp_train0/ # ER training set 5970 graphs 
+data/BA_Graph_Uniform_mixN_mixp_train0/ # BA training set 5970 graphs
+data/ER_Graph_Uniform_GEN21_test2/ # ER test set with 500 graphs
+data/BA_Graph_Uniform_GEN24_test2/ # BA test set with 860 graphs
 ```
 
