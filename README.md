@@ -2,9 +2,9 @@
 
 Paper accepted to [IEEE TWC](https://doi.org/10.1109/TWC.2025.3606741) in 2025, and conference version published in [IEEE ICASSP 2022](https://2022.ieeeicassp.org/)
 
-Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, and Santiago Segarra, " Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks," IEEE Transactions on Wireless Communications, 2025, accepted for publication, DOI: 10.1109/TWC.2025.3606741
+Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, and Santiago Segarra, " Distributed Link Sparsification for Scalable Scheduling using Graph Neural Networks," IEEE Transactions on Wireless Communications, 2025, accepted for publication, DOI: 10.1109/TWC.2025.3606741, [Preprint arXiv:2509.05447](https://arxiv.org/pdf/2509.05447)
 
-Z. Zhao, A. Swami and S. Segarra, "Distributed Link Sparsification for Scalable Scheduling Using Graph Neural Networks," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 5308-5312, doi: 10.1109/ICASSP43922.2022.9747437. 
+Z. Zhao, A. Swami and S. Segarra, "Distributed Link Sparsification for Scalable Scheduling Using Graph Neural Networks," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 5308-5312, doi: 10.1109/ICASSP43922.2022.9747437. [Preprint arXiv:2203.14339](https://arxiv.org/abs/2203.14339)
 
 
 ```bib
